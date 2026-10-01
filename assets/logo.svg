@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#7C5CFF"/><stop offset=".5" stop-color="#18E0C1"/><stop offset="1" stop-color="#00C2FF"/></linearGradient></defs>
+<rect x="2" y="2" width="56" height="56" rx="18" fill="url(#g)"/>
+<path d="M17 31c7-12 13-12 20 0s13 12 20 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<circle cx="30" cy="18" r="4" fill="#fff"/><text x="70" y="39" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="900" fill="#fff">NEXA</text>
+</svg>
